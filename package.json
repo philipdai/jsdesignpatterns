@@ -1,0 +1,24 @@
+{
+  "name": "jsdesignpatterns",
+  "version": "1.0.0",
+  "description": "My sample codes on design patterns written in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipdai/jsdesignpatterns.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Design",
+    "Pattern"
+  ],
+  "author": "Philip Dai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipdai/jsdesignpatterns/issues"
+  },
+  "homepage": "https://github.com/philipdai/jsdesignpatterns#readme"
+}
